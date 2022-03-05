@@ -1,5 +1,6 @@
 # EXAMEN_PARCIAL_DISEÑOS_EXPERIMENTALES
-Solución a primer Examen Parcial de Diseños Experimentales
+
+**Solución a primer Examen Parcial de Diseños Experimentales**
 
 *En la Carpeta Script se encuentra los códigos en "R" utilizados para el Caso I y Caso II respectivamente del Examen Parcial.
 
